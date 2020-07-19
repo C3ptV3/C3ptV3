@@ -2,7 +2,7 @@
 #### I am a full-stack developer mainly focused on back-end.
 Born in 1998. Graduated from Chukurova University/Turkey in 2020. I have experience as a DevOps Cloud Native Engineer and System Engineer.
 
-Skills: React / Js / HTML / CSS / Node.js / Javascript / AWS/ PHP / C / Docker / Kubernetes /  Linux / Bash
+Skills: React / Js / HTML / CSS / Node.js / Javascript / AWS/ PHP / C / Docker / Kubernetes /  Linux 
 
 🔭 I’m currently working on MERN stack project. 🌱 I’m currently learning React,Mongodb,Node.js 💬 Ask me about Anything 📫 How to reach me: Email:e.habibov55@gmail.com 
 
