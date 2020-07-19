@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Elchin
-#### I am a full-stack developer mainly focusing on back-end.
+#### I am a full-stack developer mainly focused on back-end.
 Born in 1998. Graduated from Chukurova University/Turkey in 2020. I have experience as a DevOps Cloud Native Engineer and System Engineer.
 
 Skills: React / Js / HTML / CSS / Node.js / Javascript / AWS/ PHP / C / Docker / Kubernetes /  Linux / Bash
